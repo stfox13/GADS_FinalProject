@@ -1,0 +1,813 @@
+,gsId,name,type,gradeRange,enrollment,gsRating,parentRating,city,state,districtId,district,districtNCESId,address,ncesId,lat,lon
+0,3764,Arthur Jacobsen Elementary School,public,K-5,546,6,3,Auburn,WA,19,Auburn School District,5300300,"29205 132nd Ave SE, 
+Auburn, WA  98092",530030003174,47.34477,-122.1644
+1,3663,Auburn Mountainview High School,public,9-12,1498,5,4,Auburn,WA,19,Auburn School District,5300300,"28900 124th Ave SE, 
+Auburn, WA  98092",530030002978,47.34194,-122.17298
+2,91,Auburn Riverside High School,public,9-12,1571,5,4,Auburn,WA,19,Auburn School District,5300300,"501 Oravetz Road, 
+Auburn, WA  98092",530030002445,47.267715,-122.22208
+3,74,Auburn Senior High School,public,9-12,1402,3,3,Auburn,WA,19,Auburn School District,5300300,"711 E. Main St., 
+Auburn, WA  98002",530030000032,47.308315,-122.21899
+4,602,Camelot Elementary School,public,PK-5,323,3,4,Auburn,WA,88,Federal Way School District,5302820,"4041 South 298th, 
+Auburn, WA  98001",530282000432,47.3342,-122.2846
+5,75,Cascade Middle School,public,6-8,726,3,4,Auburn,WA,19,Auburn School District,5300300,"1015 24th St Ne, 
+Auburn, WA  98002",530030000033,47.3293,-122.2148
+6,76,Chinook Elementary School,public,PK-5,409,5,4,Auburn,WA,19,Auburn School District,5300300,"3502 Auburn Way South, 
+Auburn, WA  98092",530030000034,47.289715,-122.18142
+7,79,Dick Scobee Elementary School,public,PK-5,486,3,5,Auburn,WA,19,Auburn School District,5300300,"1031 14th St NE, 
+Auburn, WA  98002",530030000037,47.32076,-122.2162
+8,77,Evergreen Heights Elementary School,public,K-5,452,7,4,Auburn,WA,19,Auburn School District,5300300,"5602 South 316th St, 
+Auburn, WA  98001",530030000035,47.319366,-122.264114
+9,82,Gildo Rey Elementary School,public,PK-5,569,8,5,Auburn,WA,19,Auburn School District,5300300,"1005 37th St SE, 
+Auburn, WA  98002",530030000040,47.27831,-122.21602
+10,7265,Green River Community College,public,9-12,,,,Auburn,WA,365,,,"12401 Se 320th St, 
+Auburn, WA  98092",530032603395,47.3135,-122.1791
+11,89,Hazelwood Elementary School,public,K-5,571,8,5,Auburn,WA,19,Auburn School District,5300300,"11815 SE 304th St, 
+Auburn, WA  98092",530030002277,47.32906,-122.18367
+12,85,Ilalko Elementary School,public,K-5,611,6,5,Auburn,WA,19,Auburn School District,5300300,"301 Oravetz Place SE, 
+Auburn, WA  98092",530030000698,47.264168,-122.22708
+13,606,Kilo Middle School,public,6-8,541,3,2,Auburn,WA,88,Federal Way School District,5302820,"4400 South 308th St, 
+Auburn, WA  98001",530282000438,47.3268,-122.2782
+14,607,Lake Dolloff Elementary School,public,PK-5,389,4,4,Auburn,WA,88,Federal Way School District,5302820,"4200 South 308th St, 
+Auburn, WA  98001",530282000439,47.3269,-122.2806
+15,87,Lake View Elementary School,public,PK-5,366,8,4,Auburn,WA,19,Auburn School District,5300300,"16401 SE 318th St, 
+Auburn, WA  98092",530030001744,47.316677,-122.12227
+16,609,Lakeland Elementary School,public,PK-5,384,4,4,Auburn,WA,88,Federal Way School District,5302820,"35827 32nd Av South, 
+Auburn, WA  98001",530282000441,47.2801,-122.293
+17,3695,Lakeland Hills Elementary School,public,K-5,705,10,4,Auburn,WA,19,Auburn School District,5300300,"1020 Evergreen Way SE, 
+Auburn, WA  98092",530030003063,47.254604,-122.21532
+18,78,Lea Hill Elementary School,public,PK-5,465,5,4,Auburn,WA,19,Auburn School District,5300300,"30908 124th Ave SE, 
+Auburn, WA  98092",530030000036,47.324924,-122.17537
+19,631,Meredith Hill Elementary School,public,PK-5,380,5,5,Auburn,WA,88,Federal Way School District,5302820,"5830 South 300th St, 
+Auburn, WA  98001",530282002298,47.3339,-122.2614
+20,86,Mt Baker Middle School,public,6-8,945,6,3,Auburn,WA,19,Auburn School District,5300300,"620 37th St Se, 
+Auburn, WA  98002",530030001443,47.2746,-122.2202
+21,3660,Muckleshoot Tribal School,public,K-12,,1,4,Auburn,WA,1,Enumclaw School District,5300001,"15209 SE 376th St, 
+Auburn, WA  98092",590004700125,47.2514,-122.1122
+22,80,Olympic Middle School,public,6-8,692,2,3,Auburn,WA,19,Auburn School District,5300300,"1825 K St Se, 
+Auburn, WA  98002",530030000038,47.2923,-122.2171
+23,81,Pioneer Elementary School,public,PK-5,559,8,4,Auburn,WA,19,Auburn School District,5300300,"2301 M St SE, 
+Auburn, WA  98002",530030000039,47.28783,-122.213394
+24,90,Rainier Middle School,public,6-8,878,6,4,Auburn,WA,19,Auburn School District,5300300,"30620 116th Ave Se, 
+Auburn, WA  98092",530030002434,47.3274,-122.1855
+25,3732,Sequoyah Middle School,public,6-8,520,3,3,Auburn,WA,88,Federal Way School District,5302820,"3425 South 360th St, 
+Auburn, WA  98001",530282002964,47.2778,-122.2881
+26,3169,Special Ed School,public,PK-12,116,,1,Auburn,WA,19,Auburn School District,5300300,"502 4th St Ne, 
+Auburn, WA  98002",530030002904,47.3109,-122.2225
+27,83,Terminal Park Elementary School,public,K-5,421,4,4,Auburn,WA,19,Auburn School District,5300300,"1101 D St SE, 
+Auburn, WA  98002",530030000041,47.298126,-122.22464
+28,617,Thomas Jefferson High School,public,9-12,1742,4,3,Auburn,WA,88,Federal Way School District,5302820,"4248 South 288th St, 
+Auburn, WA  98001",530282000451,47.3445,-122.2793
+29,620,Valhalla Elementary School,public,K-5,626,4,3,Auburn,WA,88,Federal Way School District,5302820,"27847 42nd Av South, 
+Auburn, WA  98001",530282000454,47.351543,-122.28242
+30,84,Washington Elementary School,public,K-5,462,4,4,Auburn,WA,19,Auburn School District,5300300,"20 E Street NE, 
+Auburn, WA  98002",530030000042,47.30822,-122.22225
+31,73,West Auburn Senior High School,public,9-12,296,,5,Auburn,WA,19,Auburn School District,5300300,"401 West Main St, 
+Auburn, WA  98001",530030000031,47.308105,-122.23482
+0,116,Ardmore Elementary School,public,K-5,442,4,4,Bellevue,WA,22,Bellevue School District,5300390,"16616 NE 32nd St, 
+Bellevue, WA  98008",530039000058,47.63959,-122.11747
+1,5753,Bellevue Big Picture School,public,6-12,297,9,,Bellevue,WA,22,Bellevue School District,5300390,"14844 SE 22nd St., 
+Bellevue, WA  98007",530039003354,47.591892,-122.14131
+2,117,Bellevue High School,public,9-12,1499,9,4,Bellevue,WA,22,Bellevue School District,5300390,"10416 Wolverine Way, 
+Bellevue, WA  98004",530039000060,47.6047,-122.1972
+3,118,Bennett Elementary School,public,K-5,402,10,4,Bellevue,WA,22,Bellevue School District,5300390,"17900 Ne 16th St, 
+Bellevue, WA  98008",530039000062,47.6247,-122.102
+4,3105,Bsd Voc Ed/Career Educ Options,public,9-12,34,,,Bellevue,WA,22,Bellevue School District,5300390,"12111 Ne 1st St, 
+Bellevue, WA  98005",530039002796,47.6106,-122.1808
+5,7267,Career Education Options Reengagement Program,public,10-12,211,,,Bellevue,WA,22,Bellevue School District,5300390,"12111 Ne 1st St, 
+Bellevue, WA  98005",530039003462,47.6113,-122.1807
+6,7266,Central Educational Services,public,PK-12,86,,,Bellevue,WA,22,Bellevue School District,5300390,"12111 Ne 1st St, 
+Bellevue, WA  98005",530039003434,47.6106,-122.1808
+7,119,Cherry Crest Elementary School,public,K-5,680,10,4,Bellevue,WA,22,Bellevue School District,5300390,"12400 N.E. 32nd St, 
+Bellevue, WA  98005",530039000063,47.6394,-122.1737
+8,120,Chinook Middle School,public,6-8,936,10,4,Bellevue,WA,22,Bellevue School District,5300390,"11650 S.E. 60th, 
+Bellevue, WA  98006",530039000064,47.5503,-122.1826
+9,121,Clyde Hill Elementary School,public,K-5,628,10,3,Bellevue,WA,22,Bellevue School District,5300390,"9601 Ne 24th St, 
+Bellevue, WA  98004",530039000065,47.6308,-122.2114
+10,756,Cougar Ridge Elementary School,public,K-5,584,10,4,Bellevue,WA,113,Issaquah School District,5303750,"4630 167th Ave Se, 
+Bellevue, WA  98006",530375000482,47.5619,-122.1174
+11,122,Eastgate Elementary School,public,K-5,465,9,4,Bellevue,WA,22,Bellevue School District,5300390,"4255 153rd Ave Se, 
+Bellevue, WA  98006",530039000066,47.5715,-122.1373
+12,123,Enatai Elementary School,public,K-5,543,8,4,Bellevue,WA,22,Bellevue School District,5300390,"10615 Se 23rd St, 
+Bellevue, WA  98004",530039000067,47.5891,-122.1983
+13,124,Highland Middle School,public,6-8,517,7,4,Bellevue,WA,22,Bellevue School District,5300390,"15027 Ne Belred Rd, 
+Bellevue, WA  98007",530039000068,47.6257,-122.1406
+14,125,Interlake Senior High School,public,9-12,1516,,4,Bellevue,WA,22,Bellevue School District,5300390,"16245 Ne 24th Street, 
+Bellevue, WA  98008",530039000072,47.628933,-122.12404
+15,3462,International School,public,6-12,564,10,4,Bellevue,WA,22,Bellevue School District,5300390,"445 128th Ave Se, 
+Bellevue, WA  98005",530039003149,47.6041,-122.1703
+16,5938,Jing Mei Elementary,public,K-5,96,9,4,Bellevue,WA,22,Bellevue School District,5300390,"301 151st Place Ne, 
+Bellevue, WA  98007",530039003455,47.6123,-122.1387
+17,126,Lake Hills Elementary School,public,K-5,502,4,5,Bellevue,WA,22,Bellevue School District,5300390,"14310 Se 12th St, 
+Bellevue, WA  98007",530039000075,47.6214,-122.1492
+18,128,Newport Heights Elementary School,public,K-5,622,9,4,Bellevue,WA,22,Bellevue School District,5300390,"5225 119th Ave Se, 
+Bellevue, WA  98006",530039000077,47.5556,-122.1809
+19,129,Newport Senior High School,public,9-12,1678,,4,Bellevue,WA,22,Bellevue School District,5300390,"4333 Factoria Blvd Se, 
+Bellevue, WA  98006",530039000078,47.5675,-122.172
+20,130,Odle Middle School,public,6-8,784,10,4,Bellevue,WA,22,Bellevue School District,5300390,"14401 Ne 8th St, 
+Bellevue, WA  98007",530039000079,47.6151,-122.1488
+21,133,Phantom Lake Elementary School,public,PK-5,370,8,4,Bellevue,WA,22,Bellevue School District,5300390,"1050 160th Ave Se, 
+Bellevue, WA  98008",530039000082,47.6003,-122.1256
+22,139,Puesta Del Sol Elementary School,public,K-5,573,10,5,Bellevue,WA,22,Bellevue School District,5300390,"3810 132nd Ave Se, 
+Bellevue, WA  98006",530039000090,47.5759,-122.1638
+23,134,Sammamish Senior High School,public,9-12,987,,4,Bellevue,WA,22,Bellevue School District,5300390,"100 140th Ave Se, 
+Bellevue, WA  98005",530039000085,47.608,-122.1523
+24,135,Sherwood Forest Elementary School,public,K-5,438,5,4,Bellevue,WA,22,Bellevue School District,5300390,"16411 Ne 24th St, 
+Bellevue, WA  98008",530039000086,47.6304,-122.1203
+25,136,Somerset Elementary School,public,K-5,566,10,4,Bellevue,WA,22,Bellevue School District,5300390,"14100 Somerset Blvd Se, 
+Bellevue, WA  98006",530039000087,47.5632,-122.1518
+26,137,Spiritridge Elementary School,public,K-5,698,10,4,Bellevue,WA,22,Bellevue School District,5300390,"16401 Se 24th St, 
+Bellevue, WA  98008",530039000088,47.5879,-122.1201
+27,138,Stevenson Elementary School,public,K-5,458,5,4,Bellevue,WA,22,Bellevue School District,5300390,"14220 Ne 8th St, 
+Bellevue, WA  98007",530039000089,47.6182,-122.1506
+28,775,Sunset Elementary School,public,PK-5,635,10,4,Bellevue,WA,113,Issaquah School District,5303750,"4229 West Lake Samm Parkway SE, 
+Bellevue, WA  98008",530375002307,47.64228,-122.081184
+29,140,Tillicum Middle School,public,6-8,662,10,4,Bellevue,WA,22,Bellevue School District,5300390,"16020 Se 16th St, 
+Bellevue, WA  98008",530039000093,47.5984,-122.1257
+30,141,Tyee Middle School,public,6-8,887,10,4,Bellevue,WA,22,Bellevue School District,5300390,"13630 S.E. Allen Rd, 
+Bellevue, WA  98006",530039000094,47.5735,-122.1583
+31,142,Woodridge Elementary School,public,K-5,596,8,4,Bellevue,WA,22,Bellevue School District,5300390,"12619 Se 20th Place, 
+Bellevue, WA  98005",530039000096,47.592,-122.1729
+0,3148,CHOICE Academy,public,7-12,137,9,4,Burien,WA,108,Highline School District,5303540,"18367 8th Ave S., 
+Burien, WA  98148",530354002640,47.438347,-122.325325
+1,713,Cedarhurst Elementary School,public,PK-6,702,2,4,Burien,WA,108,Highline School District,5303540,"611 South 132nd St, 
+Burien, WA  98168",530354000523,47.4845,-122.3247
+2,5763,Gateway To College,public,10-12,52,,,Burien,WA,108,Highline School District,5303540,"614 Sw 120th St, 
+Burien, WA  98146",530354003373,47.4959,-122.3426
+3,717,Gregory Heights Elementary School,public,PK-6,650,5,4,Burien,WA,108,Highline School District,5303540,"16216 19th Ave Sw, 
+Burien, WA  98166",530354000528,47.4574,-122.3572
+4,718,Hazel Valley Elementary School,public,PK-6,609,3,4,Burien,WA,108,Highline School District,5303540,"402 Sw 132nd St, 
+Burien, WA  98146",530354000529,47.4852,-122.3401
+5,3665,Highline Big Picture School,public,7-12,190,,5,Burien,WA,108,Highline School District,5303540,"440 South 186th St, 
+Burien, WA  98148",530354002976,47.436928,-122.32806
+6,719,Highline High School,public,9-12,1300,,3,Burien,WA,108,Highline School District,5303540,"225 South 152nd St, 
+Burien, WA  98148",530354000531,47.4664,-122.3303
+7,5664,Puget Sound High School,public,11-12,4,,,Burien,WA,108,Highline School District,5303540,"18010 8th Ave South, 
+Burien, WA  98148",530354003283,47.4411,-122.3228
+8,732,Seahurst Elementary School,public,PK-6,568,3,4,Burien,WA,108,Highline School District,5303540,"14603 14th Ave Sw, 
+Burien, WA  98166",530354000549,47.4712,-122.3539
+9,733,Shorewood Elementary School,public,PK-6,478,6,4,Burien,WA,108,Highline School District,5303540,"2725 Sw 116th St, 
+Burien, WA  98146",530354000550,47.4985,-122.368
+10,735,Sylvester Middle School,public,7-8,643,4,3,Burien,WA,108,Highline School District,5303540,"16222 Sylvester Rd Sw, 
+Burien, WA  98166",530354000554,47.4574,-122.34
+0,958,Cedarcrest High School,public,9-12,877,,4,Duvall,WA,135,Riverview School District,5304560,"29000 NE 150th St, 
+Duvall, WA  98019",530456000716,47.736397,-121.951385
+1,957,Cherry Valley Elementary School,public,K-5,510,7,4,Duvall,WA,135,Riverview School District,5304560,"26701 NE Cherry Valley Rd, 
+Duvall, WA  98019",530456000715,47.74662,-121.98202
+2,962,Eagle Rock Multiage School,public,K-5,77,8,5,Duvall,WA,135,Riverview School District,5304560,"29300 Ne 150th St, 
+Duvall, WA  98019",530456002566,47.7344,-121.9483
+0,2,Byron Kibler Elementary School,public,PK-5,416,4,3,Enumclaw,WA,1,Enumclaw School District,5300001,"2057 Kibler Ave, 
+Enumclaw, WA  98022",530000100377,47.2108,-121.9967
+1,8,Enumclaw Middle School,public,6-8,460,8,3,Enumclaw,WA,1,Enumclaw School District,5300001,"550 Semanski St, 
+Enumclaw, WA  98022",530000102054,47.187,-122.0081
+2,3,Enumclaw Sr High School,public,8-12,1387,,4,Enumclaw,WA,1,Enumclaw School District,5300001,"226 Semanski St South, 
+Enumclaw, WA  98022",530000100379,47.1904,-122.0068
+3,5,Southwood Elementary School,public,PK-5,295,8,5,Enumclaw,WA,1,Enumclaw School District,5300001,"3240 Mcdougall Ave, 
+Enumclaw, WA  98022",530000100382,47.1875,-122.0117
+4,5460,Special Ed School,public,PK-12,14,,,Enumclaw,WA,1,Enumclaw School District,5300001,"2929 Mcdougall Ave, 
+Enumclaw, WA  98022",530000103038,47.1882,-122.0066
+5,7,Sunrise Elementary School,public,PK-5,409,7,5,Enumclaw,WA,1,Enumclaw School District,5300001,"899 Osceola At 244th Ave Se, 
+Enumclaw, WA  98022",530000100478,47.1855,-122.0149
+6,2984,Thunder Mountain Middle School,public,6-8,481,7,4,Enumclaw,WA,1,Enumclaw School District,5300001,"42018 264th Ave SE, 
+Enumclaw, WA  98022",530000102795,47.223026,-121.987495
+7,6,Westwood Elementary School,public,PK-5,307,8,4,Enumclaw,WA,1,Enumclaw School District,5300001,"21200 Se 416th, 
+Enumclaw, WA  98022",530000100383,47.2291,-122.0577
+0,600,Adelaide Elementary School,public,PK-5,415,2,4,Federal Way,WA,88,Federal Way School District,5302820,"1635 Sw 304th St, 
+Federal Way, WA  98023",530282000430,47.3288,-122.3568
+1,601,Brigadoon Elementary School,public,PK-5,316,5,4,Federal Way,WA,88,Federal Way School District,5302820,"3601 Sw 336th St, 
+Federal Way, WA  98023",530282000431,47.2998,-122.3781
+2,5661,Career Academy At Truman High School,public,9-12,144,2,3,Federal Way,WA,88,Federal Way School District,5302820,"31455 28th Ave South, 
+Federal Way, WA  98003",530282003306,47.3187,-122.299
+3,603,Decatur High School,public,9-12,1379,2,3,Federal Way,WA,88,Federal Way School District,5302820,"2800 Sw 320th St, 
+Federal Way, WA  98023",530282000434,47.317,-122.3679
+4,3202,Employment Transition Program,public,9-12,38,,,Federal Way,WA,88,Federal Way School District,5302820,"33250 21st Ave Sw, 
+Federal Way, WA  98023",530282003124,47.3034,-122.3594
+5,625,Enterprise Elementary School,public,PK-5,492,4,4,Federal Way,WA,88,Federal Way School District,5302820,"35101 5th Ave Sw, 
+Federal Way, WA  98023",530282001380,47.2872,-122.3411
+6,2777,Federal Way Public Academy,public,6-10,306,10,4,Federal Way,WA,88,Federal Way School District,5302820,"34620 9th Av South, 
+Federal Way, WA  98003",530282002719,47.2925,-122.336
+7,604,Federal Way Senior High School,public,9-12,1558,3,3,Federal Way,WA,88,Federal Way School District,5302820,"30611 16th Av South, 
+Federal Way, WA  98003",530282000435,47.3272,-122.3143
+8,623,Green Gables Elementary School,public,PK-5,401,4,4,Federal Way,WA,88,Federal Way School District,5302820,"32607 47th Ave Sw, 
+Federal Way, WA  98023",530282001120,47.309,-122.3939
+9,605,Illahee Middle School,public,5-8,756,4,4,Federal Way,WA,88,Federal Way School District,5302820,"36001 1st Ave South, 
+Federal Way, WA  98003",530282000437,47.2774,-122.3358
+10,3034,Internet Academy,public,PK-12,277,7,4,Federal Way,WA,88,Federal Way School District,5302820,"31455 28th Ave South, 
+Federal Way, WA  98003",530282002638,47.3187,-122.299
+11,608,Lake Grove Elementary School,public,PK-5,420,3,3,Federal Way,WA,88,Federal Way School District,5302820,"303 Sw 308th St, 
+Federal Way, WA  98023",530282000440,47.3253,-122.3388
+12,610,Lakota Middle School,public,6-8,777,4,3,Federal Way,WA,88,Federal Way School District,5302820,"1415 Sw 314th St, 
+Federal Way, WA  98023",530282000442,47.3203,-122.354
+13,627,Mark Twain Elementary School,public,PK-5,561,3,3,Federal Way,WA,88,Federal Way School District,5302820,"2450 South Star Lake Rd, 
+Federal Way, WA  98003",530282001835,47.3563,-122.2989
+14,611,Mirror Lake Elementary School,public,PK-5,446,5,4,Federal Way,WA,88,Federal Way School District,5302820,"625 South 314th St, 
+Federal Way, WA  98003",530282000443,47.3195,-122.325
+15,612,Nautilus Elementary School,public,PK-8,508,4,4,Federal Way,WA,88,Federal Way School District,5302820,"1000 South 289th St, 
+Federal Way, WA  98003",530282000444,47.3426,-122.3226
+16,613,Olympic View Elementary School,public,PK-5,417,2,3,Federal Way,WA,88,Federal Way School District,5302820,"2626 Sw 327th St, 
+Federal Way, WA  98023",530282000447,47.3095,-122.3669
+17,626,Panther Lake Elementary School,public,PK-5,458,2,4,Federal Way,WA,88,Federal Way School District,5302820,"34424 1st Av South, 
+Federal Way, WA  98003",530282001767,47.2927,-122.3337
+18,634,Rainier View Elementary School,public,PK-5,362,4,4,Federal Way,WA,88,Federal Way School District,5302820,"3015 South 368th St, 
+Federal Way, WA  98003",530282002440,47.2711,-122.2946
+19,614,Sacajawea Middle School,public,6-8,733,4,3,Federal Way,WA,88,Federal Way School District,5302820,"1101 South Dash Point Rd, 
+Federal Way, WA  98003",530282000448,47.3343,-122.3179
+20,624,Saghalie Middle School,public,6-8,457,1,4,Federal Way,WA,88,Federal Way School District,5302820,"33914 19th Av Sw, 
+Federal Way, WA  98023",530282001376,47.2978,-122.3551
+21,632,Sherwood Forest Elementary School,public,PK-5,478,4,5,Federal Way,WA,88,Federal Way School District,5302820,"34600 12th Av Sw, 
+Federal Way, WA  98023",530282002301,47.292,-122.3498
+22,630,Silver Lake Elementary School,public,PK-5,423,2,4,Federal Way,WA,88,Federal Way School District,5302820,"1310 Sw 325th St, 
+Federal Way, WA  98023",530282002255,47.3101,-122.3521
+23,3265,Todd Beamer High School,public,9-12,1847,3,3,Federal Way,WA,88,Federal Way School District,5302820,"35999 16th Av South, 
+Federal Way, WA  98003",530282003154,47.2776,-122.3148
+24,619,Twin Lakes Elementary School,public,PK-5,405,3,5,Federal Way,WA,88,Federal Way School District,5302820,"4400 Sw 320th St, 
+Federal Way, WA  98023",530282000453,47.3161,-122.3885
+25,621,Wildwood Elementary School,public,PK-5,528,2,4,Federal Way,WA,88,Federal Way School District,5302820,"2405 South 300th St, 
+Federal Way, WA  98003",530282000455,47.3324,-122.3014
+0,769,Beaver Lake Middle School,public,6-8,858,10,4,Issaquah,WA,113,Issaquah School District,5303750,"25025 Se 32nd St, 
+Issaquah, WA  98029",530375001495,47.5798,-122.0056
+1,774,Challenger Elementary School,public,K-5,555,9,4,Issaquah,WA,113,Issaquah School District,5303750,"25200 Se Klahanie Blvd, 
+Issaquah, WA  98029",530375002214,47.5772,-122.0042
+2,773,Clark Elementary School,public,K-5,535,6,4,Issaquah,WA,113,Issaquah School District,5303750,"500 2nd Ave Se, 
+Issaquah, WA  98027",530375002107,47.5243,-122.0296
+3,777,Endeavour Elementary School,public,K-5,655,9,4,Issaquah,WA,113,Issaquah School District,5303750,"26205 Se Issaquahfall City Rd, 
+Issaquah, WA  98029",530375002518,47.5703,-121.9883
+4,3688,Grand Ridge Elementary School,public,K-5,705,10,4,Issaquah,WA,113,Issaquah School District,5303750,"1739 Ne Park Dr, 
+Issaquah, WA  98029",530375003067,47.5468,-122.0044
+5,760,Issaquah High School,public,9-12,2033,,3,Issaquah,WA,113,Issaquah School District,5303750,"700 2nd Ave Se, 
+Issaquah, WA  98027",530375000574,47.5229,-122.0282
+6,759,Issaquah Middle School,public,6-8,776,10,3,Issaquah,WA,113,Issaquah School District,5303750,"400 1st Ave Se, 
+Issaquah, WA  98027",530375000573,47.5262,-122.0348
+7,3227,Issaquah Special Services,public,PK-12,102,,,Issaquah,WA,113,Issaquah School District,5303750,"565 Nw Holly St, 
+Issaquah, WA  98027",530375001490,47.5367,-122.0452
+8,761,Issaquah Valley Elementary School,public,K-5,600,8,4,Issaquah,WA,113,Issaquah School District,5303750,"555 Nw Holly St, 
+Issaquah, WA  98027",530375000575,47.5367,-122.0452
+9,5667,Pacific Cascade Middle School,public,6-8,887,10,5,Issaquah,WA,113,Issaquah School District,5303750,"24635 Se Issaquah Fall City Rd, 
+Issaquah, WA  98029",530375003337,47.5594,-122.0114
+10,772,Tiger Mountain Community High School,public,9-12,96,,5,Issaquah,WA,113,Issaquah School District,5303750,"355 Se Evans Ln, 
+Issaquah, WA  98027",530375002106,47.5254,-122.0309
+0,831,Cedar Heights Middle School,public,7-8,628,7,4,Kent,WA,118,Kent School District,5303960,"19640 Se 272nd St, 
+Kent, WA  98042",530396001142,47.3592,-122.0794
+1,808,Cedar Valley Elementary School,public,K-6,318,4,5,Kent,WA,118,Kent School District,5303960,"26500 Timberlane Way Se, 
+Kent, WA  98042",530396000612,47.3648,-122.0857
+2,810,East Hill Elementary School,public,K-6,516,2,3,Kent,WA,118,Kent School District,5303960,"9825 South 240th St, 
+Kent, WA  98031",530396000614,47.3861,-122.2081
+3,2792,Emerald Park Elementary School,public,K-6,492,8,4,Kent,WA,118,Kent School District,5303960,"11800 Se 216th St, 
+Kent, WA  98031",530396002729,47.4098,-122.1834
+4,829,George T. Daniel Elementary School,public,K-6,537,2,3,Kent,WA,118,Kent School District,5303960,"11310 Se 248th St, 
+Kent, WA  98030",530396000690,47.3804,-122.1901
+5,845,Glenridge Elementary School,public,K-6,486,7,5,Kent,WA,118,Kent School District,5303960,"19405 120th Ave Se, 
+Kent, WA  98031",530396002522,47.4284,-122.1826
+6,812,Grass Lake Elementary School,public,K-6,426,10,4,Kent,WA,118,Kent School District,5303960,"28700 191st Place Se, 
+Kent, WA  98042",530396000617,47.3446,-122.0871
+7,843,Horizon Elementary School,public,K-6,470,7,3,Kent,WA,118,Kent School District,5303960,"27641 144th Ave Se, 
+Kent, WA  98042",530396002310,47.3539,-122.1515
+8,2980,Kent Elementary School,public,K-6,668,3,3,Kent,WA,118,Kent School District,5303960,"24700 64th Ave South, 
+Kent, WA  98032",530396000619,47.3801,-122.2515
+9,3791,Kent Phoenix Academy,public,9-12,292,,4,Kent,WA,118,Kent School District,5303960,"11000 Se 264th St, 
+Kent, WA  98030",530396003178,47.3665,-122.1939
+10,815,Kent-Meridian High School,public,9-12,2150,2,4,Kent,WA,118,Kent School District,5303960,"10020 Se 256th St, 
+Kent, WA  98030",530396000621,47.3737,-122.2073
+11,847,Kentlake High School,public,9-12,1500,4,3,Kent,WA,118,Kent School District,5303960,"21401 Se Falcon Way, 
+Kent, WA  98042",530396002570,47.331375,-122.05718
+12,816,Kentridge High School,public,9-12,2186,8,4,Kent,WA,118,Kent School District,5303960,"12430 Se 208th St, 
+Kent, WA  98031",530396000622,47.4168,-122.174
+13,817,Lake Youngs Elementary School,public,K-6,500,9,4,Kent,WA,118,Kent School District,5303960,"19660 142nd Ave Se, 
+Kent, WA  98042",530396000623,47.4259,-122.1516
+14,839,Martin Sortun Elementary School,public,K-6,600,9,4,Kent,WA,118,Kent School District,5303960,"12711 SE 248th St, 
+Kent, WA  98030",530396002112,47.378376,-122.1716
+15,832,Meadow Ridge Elementary School,public,K-6,513,2,2,Kent,WA,118,Kent School District,5303960,"27710 108th Ave SE, 
+Kent, WA  98030",530396001603,47.3533,-122.195786
+16,819,Meridian Elementary School,public,K-6,615,6,4,Kent,WA,118,Kent School District,5303960,"25621 140th Ave Se, 
+Kent, WA  98042",530396000625,47.3718,-122.1558
+17,820,Meridian Middle School,public,7-8,646,5,4,Kent,WA,118,Kent School District,5303960,"23480 120th Ave Se, 
+Kent, WA  98031",530396000626,47.3917,-122.1804
+18,3702,Mill Creek Middle School,public,7-8,852,2,4,Kent,WA,118,Kent School District,5303960,"620 Central Ave North, 
+Kent, WA  98032",530396002986,47.3855,-122.2301
+19,3273,Millennium Elementary School,public,K-6,564,5,4,Kent,WA,118,Kent School District,5303960,"11919 Se 270th St, 
+Kent, WA  98030",530396002799,47.3586,-122.1806
+20,842,Neely O Brien Elementary School,public,K-6,765,3,4,Kent,WA,118,Kent School District,5303960,"6300 South 236th St, 
+Kent, WA  98032",530396002309,47.3914,-122.2565
+21,821,Panther Lake Elementary School,public,K-6,649,4,4,Kent,WA,118,Kent School District,5303960,"10200 Se 216th St, 
+Kent, WA  98031",530396000628,47.4095,-122.2047
+22,822,Park Orchard Elementary School,public,K-6,545,2,4,Kent,WA,118,Kent School District,5303960,"11010 Se 232nd St, 
+Kent, WA  98031",530396000629,47.395,-122.1934
+23,823,Pine Tree Elementary School,public,K-6,521,3,4,Kent,WA,118,Kent School District,5303960,"27825 118th Ave Se, 
+Kent, WA  98030",530396000630,47.3522,-122.1853
+24,824,Scenic Hill Elementary School,public,K-6,644,2,5,Kent,WA,118,Kent School District,5303960,"26025 Woodland Way South, 
+Kent, WA  98030",530396000631,47.3684,-122.2112
+25,826,Soos Creek Elementary School,public,K-6,367,4,4,Kent,WA,118,Kent School District,5303960,"12651 Se 218th Place, 
+Kent, WA  98031",530396000633,47.4059,-122.172
+26,827,Springbrook Elementary School,public,K-6,499,2,3,Kent,WA,118,Kent School District,5303960,"20035 100th Ave Se, 
+Kent, WA  98031",530396000635,47.4212,-122.2087
+27,615,Star Lake Elementary School,public,PK-5,500,4,3,Kent,WA,88,Federal Way School District,5302820,"4014 South 270th, 
+Kent, WA  98031",530282000449,47.3603,-122.2825
+28,616,Sunnycrest Elementary School,public,PK-5,579,2,4,Kent,WA,88,Federal Way School District,5302820,"24629 42nd Av South, 
+Kent, WA  98032",530282000450,47.3802,-122.282
+29,830,Sunrise Elementary School,public,K-6,534,8,4,Kent,WA,118,Kent School District,5303960,"22300 132nd Ave Se, 
+Kent, WA  98042",530396000706,47.4028,-122.1643
+30,5494,Technology Access Foundation Academy,public,6-12,274,5,5,Kent,WA,88,Federal Way School District,5302820,"26720 40th Ave South, 
+Kent, WA  98032",530282003245,47.362,-122.2804
+31,618,Totem Middle School,public,6-8,581,2,3,Kent,WA,88,Federal Way School District,5302820,"26630 40th Ave South, 
+Kent, WA  98031",530282000452,47.3625,-122.2823
+32,5931,iGrad,public,9-12,507,,,Kent,WA,118,Kent School District,5303960,"25668 104th Ave Se, 
+Kent, WA  98030",530396003382,47.3709,-122.2017
+0,878,Alelxander Graham Bell Elementary School,public,K-6,350,8,4,Kirkland,WA,127,Lake Washington School District,5304230,"11212 Ne 112th, 
+Kirkland, WA  98033",530423000656,47.7017,-122.192
+1,880,Benjamin Franklin Elementary School,public,K-6,440,10,4,Kirkland,WA,127,Lake Washington School District,5304230,"12434 Ne 60th, 
+Kirkland, WA  98033",530423000658,47.6622,-122.1734
+2,909,Best Senior High School,public,9-12,59,,4,Kirkland,WA,127,Lake Washington School District,5304230,"10903 Ne 53rd St, 
+Kirkland, WA  98033",530423001784,47.6553,-122.1956
+3,882,Carl Sandburg Elementary School,public,K-6,517,10,3,Kirkland,WA,127,Lake Washington School District,5304230,"12801 84th Ave Ne, 
+Kirkland, WA  98034",530423000660,47.7159,-122.2305
+4,893,Community School,public,1-5,72,,4,Kirkland,WA,127,Lake Washington School District,5304230,"11133 NE 65th St., 
+Kirkland, WA  98033",530423000673,47.663864,-122.19128
+5,3240,Discovery Community School,public,1-6,72,,5,Kirkland,WA,127,Lake Washington School District,5304230,"12801 84th NE, 
+Kirkland, WA  98034",530423002448,47.716553,-122.230705
+6,3090,Environmental & Adventure School,public,6-9,143,10,5,Kirkland,WA,127,Lake Washington School District,5304230,"8040 Ne 132nd, 
+Kirkland, WA  98034",530423002726,47.72,-122.2326
+7,3251,Family Learning Center,public,K-12,145,,4,Kirkland,WA,127,Lake Washington School District,5304230,"10903 Ne 53rd St, 
+Kirkland, WA  98033",530423002725,47.6553,-122.1956
+8,884,Finn Hill Junior High School,public,6-9,555,9,4,Kirkland,WA,127,Lake Washington School District,5304230,"8040 Ne 132nd St, 
+Kirkland, WA  98034",530423000663,47.7199,-122.2326
+9,2799,Futures School,public,9-12,65,,5,Kirkland,WA,127,Lake Washington School District,5304230,"10601 Ne 132nd, 
+Kirkland, WA  98034",530423002727,47.7152,-122.1988
+10,7258,Gateway To College At LWIT,public,12,,,,Kirkland,WA,335,Lake Washington Institute Of Technology,5300313,"11605 132nd Ave Ne, 
+Kirkland, WA  98034",530031303403,47.7034,-122.166
+11,886,Helen Keller Elementary School,public,K-6,349,7,4,Kirkland,WA,127,Lake Washington School District,5304230,"13820 108th Ne, 
+Kirkland, WA  98034",530423000666,47.7248,-122.1956
+12,904,Henry David Thoreau Elementary School,public,K-6,284,8,4,Kirkland,WA,127,Lake Washington School District,5304230,"8224 Ne 138th, 
+Kirkland, WA  98034",530423000684,47.7248,-122.2307
+13,924,International Community School,public,6-12,427,10,4,Kirkland,WA,127,Lake Washington School District,5304230,"11133 Ne 65th St, 
+Kirkland, WA  98033",530423002568,47.6638,-122.1908
+14,888,John Muir Elementary School,public,K-6,387,7,5,Kirkland,WA,127,Lake Washington School District,5304230,"14012 132nd Ave Ne, 
+Kirkland, WA  98034",530423000668,47.7268,-122.1633
+15,889,Juanita Elementary School,public,PK-6,354,9,4,Kirkland,WA,127,Lake Washington School District,5304230,"9635 Ne 132nd, 
+Kirkland, WA  98034",530423000669,47.7179,-122.2093
+16,890,Juanita High School,public,9-12,1340,8,2,Kirkland,WA,127,Lake Washington School District,5304230,"10601 Ne 132nd, 
+Kirkland, WA  98034",530423000670,47.7152,-122.1988
+17,891,Kamiakin Junior High School,public,6-9,538,7,3,Kirkland,WA,127,Lake Washington School District,5304230,"14111 132nd Ave Ne, 
+Kirkland, WA  98034",530423000671,47.7274,-122.1655
+18,892,Kirkland Junior High School,public,6-9,605,10,3,Kirkland,WA,127,Lake Washington School District,5304230,"430 18th Ave, 
+Kirkland, WA  98033",530423000672,47.6907,-122.2007
+19,7259,LWIT 1418 Contract Bellevue College Ceo,public,11-12,,,,Kirkland,WA,335,Lake Washington Institute Of Technology,5300313,"11605 132nd Ave Ne, 
+Kirkland, WA  98034",530031303438,47.7034,-122.166
+20,894,Lake Washington High School,public,10-12,1400,9,4,Kirkland,WA,127,Lake Washington School District,5304230,"12033 N.E. 80th St, 
+Kirkland, WA  98033",530423000674,47.672615,-122.18135
+21,5626,Lake Washington Technical Academy,public,11-12,321,,,Kirkland,WA,335,Lake Washington Institute Of Technology,5300313,"11605 132nd Ave Ne, 
+Kirkland, WA  98034",530031303265,47.7034,-122.166
+22,895,Lakeview Elementary School,public,K-6,477,9,5,Kirkland,WA,127,Lake Washington School District,5304230,"10400 Ne 68th, 
+Kirkland, WA  98033",530423000675,47.6674,-122.2001
+23,896,Mark Twain Elementary School,public,K-6,613,9,4,Kirkland,WA,127,Lake Washington School District,5304230,"9525 130th Ave Ne, 
+Kirkland, WA  98033",530423000676,47.6869,-122.1694
+24,3239,Northstar Middle School,public,6-8,90,,5,Kirkland,WA,127,Lake Washington School District,5304230,"10903 NE 53rd St., 
+Kirkland, WA  98033",530423001843,47.6547,-122.19605
+25,897,Peter Kirk Elementary School,public,K-6,519,10,3,Kirkland,WA,127,Lake Washington School District,5304230,"1312 6th St, 
+Kirkland, WA  98033",530423000677,47.6859,-122.1958
+26,901,Robert Frost Elementary School,public,K-6,407,7,4,Kirkland,WA,127,Lake Washington School District,5304230,"11801 Ne 140th, 
+Kirkland, WA  98034",530423000681,47.7251,-122.1839
+27,902,Rose Hill Elementary School,public,K-5,365,8,4,Kirkland,WA,127,Lake Washington School District,5304230,"8044 128th Ave NE, 
+Kirkland, WA  98033",530423000682,47.675617,-122.169266
+0,1974,Cedar River Middle School,public,6-7,544,9,5,Maple Valley,WA,263,Tahoma School District,5308760,"22615 Sweeney Rd SE, 
+Maple Valley, WA  98038",530876001515,47.400463,-122.052986
+1,1973,Glacier Park Elementary School,public,K-5,929,10,5,Maple Valley,WA,263,Tahoma School District,5308760,"23700 Se 280th Street, 
+Maple Valley, WA  98038",530876001463,47.351562,-122.024155
+2,1975,Lake Wilderness Elementary School,public,PK-6,1110,8,4,Maple Valley,WA,263,Tahoma School District,5308760,"24216 Witte Rd Se, 
+Maple Valley, WA  98038",530876001516,47.3841,-122.047
+3,1972,Rock Creek Elementary School,public,PK-6,911,9,4,Maple Valley,WA,263,Tahoma School District,5308760,"25700 Maple Valley Hwy Se, 
+Maple Valley, WA  98038",530876000692,47.3719,-122.0215
+4,3292,Russell Ridge Center,public,K-12,92,,5,Maple Valley,WA,263,Tahoma School District,5308760,"22615 Sweeney Rd Se, 
+Maple Valley, WA  98038",530876002645,47.3984,-122.0512
+5,1976,Shadow Lake Elementary School,public,PK-6,588,8,5,Maple Valley,WA,263,Tahoma School District,5308760,"22620 Sweeney Rd Se, 
+Maple Valley, WA  98038",530876001517,47.3989,-122.047
+6,3743,Tahoma Middle School,public,6-7,597,9,5,Maple Valley,WA,263,Tahoma School District,5308760,"24425 Se 216th St, 
+Maple Valley, WA  98038",530876002979,47.4076,-122.015
+0,1026,Island Park Elementary School,public,K-5,543,10,4,Mercer Island,WA,147,Mercer Island School District,5304980,"5437 Island Crest Way, 
+Mercer Island, WA  98040",530498000758,47.553665,-122.222565
+1,1029,Islander Middle School,public,6-8,1011,10,4,Mercer Island,WA,147,Mercer Island School District,5304980,"8225 SE 72nd, 
+Mercer Island, WA  98040",530498000764,47.53743,-122.22847
+2,1027,Lakeridge Elementary School,public,K-5,576,10,4,Mercer Island,WA,147,Mercer Island School District,5304980,"8215 SE 78th, 
+Mercer Island, WA  98040",530498000759,47.532257,-122.22885
+3,1028,Mercer Island High School,public,10-12,1453,10,4,Mercer Island,WA,147,Mercer Island School District,5304980,"9100 SE 42nd, 
+Mercer Island, WA  98040",530498000761,47.571964,-122.21949
+4,1030,West Mercer Elementary School,public,K-5,722,10,4,Mercer Island,WA,147,Mercer Island School District,5304980,"4141 81st Ave SE, 
+Mercer Island, WA  98040",530498000765,47.571434,-122.231064
+0,925,Albert Einstein Elementary School,public,K-6,487,6,4,Redmond,WA,127,Lake Washington School District,5304230,"18025 Ne 116th, 
+Redmond, WA  98052",530423002648,47.7019,-122.0983
+1,881,Benjamin Rush Elementary School,public,K-5,462,10,4,Redmond,WA,127,Lake Washington School District,5304230,"6101 152nd Ave NE, 
+Redmond, WA  98052",530423000659,47.66209,-122.13828
+2,908,Contractual Schools,public,PK-12,15,,,Redmond,WA,127,Lake Washington School District,5304230,"16250 Ne 74th St, 
+Redmond, WA  98052",530423001598,47.6709,-122.1235
+3,883,Emily Dickinson Elementary School,public,PK-6,538,9,4,Redmond,WA,127,Lake Washington School District,5304230,"7040 208th Ne, 
+Redmond, WA  98053",530423000661,47.6701,-122.06
+4,911,Evergreen Junior High School,public,6-9,783,10,4,Redmond,WA,127,Lake Washington School District,5304230,"6900 208th Ave Ne, 
+Redmond, WA  98053",530423001841,47.6675,-122.0608
+5,923,Explorer Community School,public,1-6,73,,5,Redmond,WA,127,Lake Washington School District,5304230,"7040 208th Ne, 
+Redmond, WA  98053",530423002519,47.67,-122.06
+6,887,Horace Mann Elementary School,public,K-6,435,10,4,Redmond,WA,127,Lake Washington School District,5304230,"17001 Ne 104th, 
+Redmond, WA  98052",530423000667,47.6917,-122.1129
+7,879,John J. Audubon Elementary School,public,K-6,547,10,4,Redmond,WA,127,Lake Washington School District,5304230,"3045 180th Ne, 
+Redmond, WA  98052",530423000657,47.6374,-122.1014
+8,914,Louisa May Alcott Elementary School,public,K-6,620,10,4,Redmond,WA,127,Lake Washington School District,5304230,"4213 228th Ave Ne, 
+Redmond, WA  98053",530423002062,47.6468,-122.0376
+9,912,Norman Rockwell Elementary School,public,K-5,643,10,5,Redmond,WA,127,Lake Washington School District,5304230,"11125 162nd Ave NE, 
+Redmond, WA  98052",530423001842,47.699306,-122.12509
+10,898,Redmond Elementary School,public,K-6,413,9,4,Redmond,WA,127,Lake Washington School District,5304230,"16800 Ne 80th, 
+Redmond, WA  98052",530423000678,47.6755,-122.1164
+11,899,Redmond High School,public,9-12,1892,,4,Redmond,WA,127,Lake Washington School District,5304230,"17272 Ne 104th, 
+Redmond, WA  98052",530423000679,47.6952,-122.1066
+12,900,Redmond Middle School,public,6-9,992,9,4,Redmond,WA,127,Lake Washington School District,5304230,"10055 166th Ave Ne, 
+Redmond, WA  98052",530423000680,47.6919,-122.1198
+13,3746,Rosa Parks Elementary School,public,K-6,650,10,4,Redmond,WA,127,Lake Washington School District,5304230,"22845 Ne Cedar Park Crescent, 
+Redmond, WA  98053",530423003077,47.685,-122.0348
+14,903,Rose Hill Middle School,public,6-8,499,9,3,Redmond,WA,127,Lake Washington School District,5304230,"13505 NE 75th St, 
+Redmond, WA  98052",530423000683,47.670193,-122.15932
+15,3741,Stella Schola,public,6-8,91,,5,Redmond,WA,127,Lake Washington School District,5304230,"13505 Ne 75th St, 
+Redmond, WA  98052",530423002983,47.6708,-122.1599
+16,1237,Sunrise Elementary School,public,K-6,304,10,4,Redmond,WA,176,Northshore School District,5305910,"14075 172 Av Ne, 
+Redmond, WA  98052",530591001993,47.7273,-122.1084
+17,5934,Tesla STEM High School,public,9-12,432,,,Redmond,WA,127,Lake Washington School District,5304230,"4301 228th Ave Ne, 
+Redmond, WA  98053",530423003432,47.6487,-122.0378
+18,5669,Washington Network Of Innovative Careers,public,9-12,1,,,Redmond,WA,127,Lake Washington School District,5304230,"Wanic, 
+Redmond, WA  98052",530423003289,47.7048,-122.1672
+0,757,Apollo Elementary School,public,K-5,640,9,4,Renton,WA,113,Issaquah School District,5303750,"15025 SE 117th St, 
+Renton, WA  98059",530375000570,47.4974,-122.13905
+1,1463,Benson Hill Elementary School,public,K-5,522,5,5,Renton,WA,217,Renton School District,5307230,"18665 116th Ave Se, 
+Renton, WA  98058",530723001064,47.4348,-122.1879
+2,758,Briarwood Elementary School,public,K-5,548,9,5,Renton,WA,113,Issaquah School District,5303750,"17020 Se 134th St, 
+Renton, WA  98059",530375000571,47.4833,-122.1142
+3,841,Carriage Crest Elementary School,public,K-6,430,8,4,Renton,WA,118,Kent School District,5303960,"18235 140th Ave Se, 
+Renton, WA  98058",530396002308,47.4381,-122.1566
+4,1466,Cascade Elementary School,public,K-5,600,3,5,Renton,WA,217,Renton School District,5307230,"16022 116th Ave Se, 
+Renton, WA  98058",530723001067,47.4588,-122.1848
+5,811,Fairwood Elementary School,public,K-6,448,6,4,Renton,WA,118,Kent School District,5303960,"16600 148th Ave Se, 
+Renton, WA  98058",530396000615,47.4536,-122.1414
+6,3517,H.O.M.E. Program,public,K-10,95,,4,Renton,WA,217,Renton School District,5307230,"2607 Jones Ave South, 
+Renton, WA  98055",530723002721,47.457096,-122.19684
+7,1476,Hazen Senior High School,public,9-12,1465,8,4,Renton,WA,217,Renton School District,5307230,"1101 Hoquiam Ave Ne, 
+Renton, WA  98059",530723001080,47.5016,-122.1525
+8,1469,Highlands Elementary School,public,K-5,542,3,3,Renton,WA,217,Renton School District,5307230,"2720 Ne 7th St, 
+Renton, WA  98056",530723001072,47.4951,-122.1824
+9,5782,Honey Dew Elementary School,public,K-5,560,4,5,Renton,WA,217,Renton School District,5307230,"800 Union Ave NE, 
+Renton, WA  98059",530723003351,47.496532,-122.16353
+10,1471,Kennydale Elementary School,public,K-5,622,8,5,Renton,WA,217,Renton School District,5307230,"1700 Ne 28th St, 
+Renton, WA  98056",530723001075,47.5173,-122.1969
+11,762,Liberty Sr High School,public,9-12,1219,,5,Renton,WA,113,Issaquah School District,5303750,"16655 Se 136th St, 
+Renton, WA  98059",530375000576,47.4798,-122.1176
+12,1473,Lindbergh Senior High School,public,9-12,1298,6,4,Renton,WA,217,Renton School District,5307230,"16426 128th Ave Se, 
+Renton, WA  98058",530723001077,47.4551,-122.1665
+13,763,Maple Hills Elementary School,public,K-5,419,7,4,Renton,WA,113,Issaquah School District,5303750,"15644 204th Ave SE, 
+Renton, WA  98059",530375000577,47.46238,-122.06655
+14,1474,Maplewood Heights Elementary School,public,K-5,700,8,4,Renton,WA,217,Renton School District,5307230,"130 Jericho Avenue SE, 
+Renton, WA  98059",530723001078,47.482212,-122.14704
+15,764,Maywood Middle School,public,6-8,957,9,5,Renton,WA,113,Issaquah School District,5303750,"14490 168th Ave Se, 
+Renton, WA  98059",530375000579,47.4713,-122.1149
+16,1475,Mcknight Middle School,public,6-8,1200,8,3,Renton,WA,217,Renton School District,5307230,"1200 Edmonds Ave NE, 
+Renton, WA  98056",530723001079,47.505653,-122.183655
+17,818,Meeker Middle School,public,7-8,681,4,3,Renton,WA,118,Kent School District,5303960,"12600 Se 192nd St, 
+Renton, WA  98058",530396000624,47.4311,-122.1722
+18,1467,Nelsen Middle School,public,6-8,972,5,4,Renton,WA,217,Renton School District,5307230,"2403 Jones Ave South, 
+Renton, WA  98055",530723001070,47.4579,-122.1981
+19,844,Northwood Middle School,public,7-8,641,9,4,Renton,WA,118,Kent School District,5303960,"17007 Se 184th St, 
+Renton, WA  98058",530396002521,47.4364,-122.1142
+20,7294,Open Door Youth Reengagement,public,11-12,,,,Renton,WA,217,Renton School District,5307230,"2607 Jones Ave South, 
+Renton, WA  98055",530723003450,47.4564,-122.1974
+21,3515,Out Of District Facility,public,PK-12,28,,,Renton,WA,217,Renton School District,5307230,"300 Sw 7th St, 
+Renton, WA  98055",530723001410,47.4735,-122.2218
+22,1477,Renton Park Elementary School,public,K-5,499,4,5,Renton,WA,217,Renton School District,5307230,"16828 128th Ave Se, 
+Renton, WA  98058",530723001081,47.4519,-122.1689
+23,1478,Renton Senior High School,public,9-12,1319,3,4,Renton,WA,217,Renton School District,5307230,"400 South 2nd St, 
+Renton, WA  98055",530723001082,47.4817,-122.2119
+24,7264,Renton Tech College High School Completion,public,9-12,,,,Renton,WA,364,Green River Community College,5300326,"3000 Ne 4th St, 
+Renton, WA  98056",530032503431,47.4898,-122.1765
+25,838,Ridgewood Elementary School,public,K-6,528,9,4,Renton,WA,118,Kent School District,5303960,"18030 162nd Placese, 
+Renton, WA  98058",530396002111,47.4404,-122.1221
+26,3145,Sartori Education Center,public,9-12,2,,4,Renton,WA,217,Renton School District,5307230,"315 Garden Ave North, 
+Renton, WA  98055",530723002342,47.4875,-122.2009
+27,1479,Sierra Heights Elementary School,public,K-5,593,4,4,Renton,WA,217,Renton School District,5307230,"9901 132nd Ave Se, 
+Renton, WA  98059",530723001084,47.5143,-122.1658
+28,1480,Talbot Hill Elementary School,public,K-5,427,5,4,Renton,WA,217,Renton School District,5307230,"2300 Talbot Rd South, 
+Renton, WA  98055",530723001085,47.4586,-122.2112
+29,1482,Tiffany Park Elementary School,public,K-5,469,7,4,Renton,WA,217,Renton School District,5307230,"1601 Lake Youngs Way Se, 
+Renton, WA  98058",530723001087,47.465,-122.1786
+30,7301,Youthsource,public,9-12,,,,Renton,WA,243,Tukwila School District,5308130,"3000 Ne 4th St, 
+Renton, WA  98056",530813003439,47.4898,-122.1765
+0,5924,APP at Lincoln,public,K-5,598,,,Seattle,WA,229,Seattle Public Schools,5307710,"4400 Interlake Ave North, 
+Seattle, WA  98103",530771003390,47.6599,-122.3399
+1,1536,Adams Elementary School,public,K-5,512,9,5,Seattle,WA,229,Seattle Public Schools,5307710,"6110 28 Av Nw, 
+Seattle, WA  98107",530771001127,47.6735,-122.3919
+2,3087,Ae #2 (Decatur),public,PK-5,389,10,5,Seattle,WA,229,Seattle Public Schools,5307710,"7711 43 Av Ne, 
+Seattle, WA  98115",530771001253,47.6856,-122.2825
+3,1609,Aki Kurose Middle School,public,6-8,733,5,4,Seattle,WA,229,Seattle Public Schools,5307710,"3928 South Graham St, 
+Seattle, WA  98118",530771001249,47.5465,-122.2825
+4,1537,Alki Elementary School,public,PK-5,385,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"3010 59 Av Sw, 
+Seattle, WA  98116",530771001129,47.5774,-122.4078
+5,1540,Arbor Heights Elementary School,public,PK-5,425,6,4,Seattle,WA,229,Seattle Public Schools,5307710,"3701 SW 104th Street, 
+Seattle, WA  98146",530771001135,47.50953,-122.37814
+6,3944,Arts & Academics Academy,public,9-12,266,1,3,Seattle,WA,108,Highline School District,5303540,"830 Sw 116th St, 
+Seattle, WA  98146",530354003182,47.5001,-122.3454
+7,1553,B F Day Elementary School,public,K-5,321,6,5,Seattle,WA,229,Seattle Public Schools,5307710,"3921 Linden Av North, 
+Seattle, WA  98103",530771001157,47.65474,-122.34914
+8,1543,Ballard High School,public,9-12,1594,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"1418 Nw 65 St, 
+Seattle, WA  98117",530771001138,47.6769,-122.3745
+9,1544,Beacon Hill Elementary School,public,K-5,464,7,5,Seattle,WA,229,Seattle Public Schools,5307710,"2025 14 Av South, 
+Seattle, WA  98144",530771001140,47.585,-122.3154
+10,710,Beverly Park Elementary At Glendale,public,PK-6,504,1,3,Seattle,WA,108,Highline School District,5303540,"1201 South 104th St, 
+Seattle, WA  98168",530354000519,47.5094,-122.3175
+11,1545,Brighton Elementary School,public,PK-5,362,2,5,Seattle,WA,229,Seattle Public Schools,5307710,"6725 45 Ave South, 
+Seattle, WA  98126",530771001143,47.5417,-122.2769
+12,1546,Broadview-Thomson Elementary School,public,PK-8,659,5,3,Seattle,WA,229,Seattle Public Schools,5307710,"13052 Greenwood Av North, 
+Seattle, WA  98133",530771001145,47.7246,-122.3544
+13,1547,Bryant Elementary School,public,K-5,586,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"3311 Ne 60 St, 
+Seattle, WA  98115",530771001146,47.6717,-122.292
+14,1464,Bryn Mawr Elementary School,public,K-5,407,3,3,Seattle,WA,217,Renton School District,5307230,"8212 South 118th St, 
+Seattle, WA  98178",530723001065,47.4981,-122.2294
+15,1465,Campbell Hill Elementary School,public,K-5,500,3,4,Seattle,WA,217,Renton School District,5307230,"6418 South 124th St, 
+Seattle, WA  98178",530723001066,47.492485,-122.253075
+16,5474,Career Link,public,9-12,160,,,Seattle,WA,108,Highline School District,5303540,"6000 16th Ave Sw, 
+Seattle, WA  98106",530354003224,47.5488,-122.3547
+17,712,Cascade Middle School,public,7-8,578,3,3,Seattle,WA,108,Highline School District,5303540,"11212 10th Avenue Sw, 
+Seattle, WA  98146",530354000522,47.50207,-122.346146
+18,1636,Catharine Blaine K-8,public,K-8,635,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"2550 34 Av West, 
+Seattle, WA  98199",530771002017,47.6428,-122.4003
+19,1548,Chief Sealth High School,public,9-12,1248,6,3,Seattle,WA,229,Seattle Public Schools,5307710,"2600 Sw Thistle, 
+Seattle, WA  98126",530771001149,47.5286,-122.3662
+20,1549,Cleveland High School,public,9-12,845,8,3,Seattle,WA,229,Seattle Public Schools,5307710,"5511 15 Ave South, 
+Seattle, WA  98108",530771001150,47.5523,-122.314
+21,1550,Coe Elementary School,public,K-5,506,10,5,Seattle,WA,229,Seattle Public Schools,5307710,"2424 7 Av West, 
+Seattle, WA  98119",530771001151,47.6408,-122.3657
+22,1551,Concord Elementary School,public,PK-5,396,2,3,Seattle,WA,229,Seattle Public Schools,5307710,"723 South Concord St, 
+Seattle, WA  98108",530771001154,47.5236,-122.3245
+23,1542,Daniel Bagley Elementary School,public,K-5,397,9,5,Seattle,WA,229,Seattle Public Schools,5307710,"7821 Stone Av North, 
+Seattle, WA  98103",530771001137,47.6863,-122.3423
+24,1554,Dearborn Park Elementary School,public,K-5,338,4,4,Seattle,WA,229,Seattle Public Schools,5307710,"2820 South Orcas St, 
+Seattle, WA  98108",530771001158,47.5523,-122.2962
+25,1634,Denny Middle School,public,6-8,926,7,3,Seattle,WA,229,Seattle Public Schools,5307710,"8402 30 Av Sw, 
+Seattle, WA  98126",530771001913,47.5272,-122.3704
+26,1489,Dimmitt Middle School,public,6-8,970,4,3,Seattle,WA,217,Renton School District,5307230,"12320 80th Ave South, 
+Seattle, WA  98178",530723002564,47.4925,-122.2323
+27,1555,Dunlap Elementary School,public,PK-5,357,3,3,Seattle,WA,229,Seattle Public Schools,5307710,"4525 South Cloverdale St, 
+Seattle, WA  98118",530771001161,47.5252,-122.2747
+28,1556,Eckstein Middle School,public,6-8,1213,10,3,Seattle,WA,229,Seattle Public Schools,5307710,"3003 NE 75 St, 
+Seattle, WA  98115",530771001162,47.68164,-122.29443
+29,3310,Education Service Centers,public,6-12,14,,,Seattle,WA,229,Seattle Public Schools,5307710,"1330 North 90 St, 
+Seattle, WA  98108",530771002634,47.6951,-122.3405
+30,1557,Emerson Elementary School,public,K-5,282,2,3,Seattle,WA,229,Seattle Public Schools,5307710,"9709 60 Av South, 
+Seattle, WA  98118",530771001163,47.5148,-122.2588
+31,3094,Experimental Education Unit,public,PK-5,31,,5,Seattle,WA,229,Seattle Public Schools,5307710,"1959 Ne Pacific St, 
+Seattle, WA  98195",530771002718,47.6507,-122.3076
+32,1558,Fairmount Park Elementary,public,PK-5,350,10,3,Seattle,WA,229,Seattle Public Schools,5307710,"3800 SW Findlay St, 
+Seattle, WA  98126",530771001164,47.552704,-122.380295
+33,1559,Franklin High School,public,9-12,1321,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"3013 South Mt Baker Bv, 
+Seattle, WA  98144",530771001168,47.576,-122.2931
+34,5895,Game Design Schools,public,n/a,2500,,,Seattle,WA,257,Sultan School District,5308550,"33 Design Street, 
+Seattle, WA  98102",,47.633823,-122.32155
+35,1561,Garfield High School,public,9-12,1622,,4,Seattle,WA,229,Seattle Public Schools,5307710,"400 23 Ave, 
+Seattle, WA  98122",530771001171,47.6053,-122.3018
+36,1562,Gatewood Elementary School,public,K-5,494,7,4,Seattle,WA,229,Seattle Public Schools,5307710,"4320 Sw Myrtle St, 
+Seattle, WA  98136",530771001172,47.5402,-122.3884
+37,1563,Gatzert Elementary School,public,PK-5,365,3,5,Seattle,WA,229,Seattle Public Schools,5307710,"1301 East Yesler Wy, 
+Seattle, WA  98122",530771001173,47.6011,-122.3155
+38,1608,Genesee Hill Elementary School,public,K-5,700,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"5013 SW Dakota Street, 
+Seattle, WA  98116",530771001245,47.566643,-122.396324
+39,1564,Graham Hill Elementary School,public,PK-5,396,4,4,Seattle,WA,229,Seattle Public Schools,5307710,"5149 South Graham St, 
+Seattle, WA  98118",530771001175,47.5457,-122.2685
+40,1565,Green Lake Elementary School,public,PK-5,258,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"2400 North 65 St, 
+Seattle, WA  98103",530771001176,47.6763,-122.3284
+41,1566,Greenwood Elementary School,public,PK-5,366,8,5,Seattle,WA,229,Seattle Public Schools,5307710,"144 Nw 80 St, 
+Seattle, WA  98117",530771001177,47.6873,-122.3599
+42,1567,Hamilton International Middle School,public,6-8,1090,10,3,Seattle,WA,229,Seattle Public Schools,5307710,"1610 North 41 St, 
+Seattle, WA  98103",530771001180,47.6575,-122.338
+43,1639,Hawthorne Elementary School,public,PK-5,345,5,4,Seattle,WA,229,Seattle Public Schools,5307710,"4100 39 Av South, 
+Seattle, WA  98118",530771002269,47.5658,-122.2834
+44,1572,Hay Elementary School,public,K-5,529,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"201 Garfield St, 
+Seattle, WA  98109",530771001192,47.63286,-122.35211
+45,7235,Hazel Wolf K-8,public,K-8,700,9,,Seattle,WA,229,Seattle Public Schools,5307710,"11530 12th Avenue NE, 
+Seattle, WA  98125",,47.713356,-122.31452
+46,5466,Health Sciences & Human Services,public,9-12,379,4,5,Seattle,WA,108,Highline School District,5303540,"830 Sw 116th St, 
+Seattle, WA  98146",530354003164,47.5001,-122.3454
+47,1570,Highland Park Elementary School,public,PK-5,415,2,3,Seattle,WA,229,Seattle Public Schools,5307710,"1012 Sw Trenton St, 
+Seattle, WA  98106",530771001183,47.5256,-122.3487
+48,720,Hilltop Elementary School,public,PK-6,635,3,4,Seattle,WA,108,Highline School District,5303540,"12250 24th Ave South, 
+Seattle, WA  98168",530354000532,47.4928,-122.3009
+49,3522,Home School Resource Center,public,K-12,180,,5,Seattle,WA,229,Seattle Public Schools,5307710,"1330 North 90 St, 
+Seattle, WA  98117",530771002635,47.6951,-122.3405
+50,3315,Hutch School,public,PK-12,19,,5,Seattle,WA,229,Seattle Public Schools,5307710,"527 Minor Av North, 
+Seattle, WA  98109",530771002935,47.6235,-122.3334
+51,1571,Ingraham High School,public,9-12,1086,,4,Seattle,WA,229,Seattle Public Schools,5307710,"1819 North 135 St, 
+Seattle, WA  98133",530771001187,47.7257,-122.3369
+52,3233,Interagency Programs,public,6-12,410,,,Seattle,WA,229,Seattle Public Schools,5307710,"2445 3rd Ave South, 
+Seattle, WA  98134",530771001365,47.5805,-122.3303
+53,5657,Jane Addams Middle School,public,6-8,546,8,5,Seattle,WA,229,Seattle Public Schools,5307710,"11051 34 Ave NE, 
+Seattle, WA  98125",530771003271,47.710453,-122.29323
+54,1591,John Muir Elementary School,public,K-5,444,3,5,Seattle,WA,229,Seattle Public Schools,5307710,"3301 South Horton St, 
+Seattle, WA  98144",530771001221,47.5734,-122.2908
+55,1573,John Rogers Elementary School,public,K-5,420,7,4,Seattle,WA,229,Seattle Public Schools,5307710,"4030 NE 109 St, 
+Seattle, WA  98125",530771001193,47.70712,-122.28476
+56,1576,John Stanford International Elementary School,public,K-5,451,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"4057 5 Av Ne, 
+Seattle, WA  98105",530771001197,47.6571,-122.3239
+57,1560,Kimball Elementary School,public,K-5,433,7,4,Seattle,WA,229,Seattle Public Schools,5307710,"3200 23 Av South, 
+Seattle, WA  98144",530771001169,47.5744,-122.3029
+58,1575,Lafayette Elementary School,public,K-5,568,8,3,Seattle,WA,229,Seattle Public Schools,5307710,"2645 California Av Sw, 
+Seattle, WA  98116",530771001195,47.58,-122.3871
+59,1472,Lakeridge Elementary School,public,K-5,420,6,3,Seattle,WA,217,Renton School District,5307230,"7400 South 115th St, 
+Seattle, WA  98178",530723001076,47.49985,-122.240036
+60,1577,Laurelhurst Elementary School,public,K-5,426,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"4530 46 Av Ne, 
+Seattle, WA  98105",530771001198,47.6622,-122.2778
+61,1578,Lawton Elementary School,public,K-5,421,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"4000 27 Av West, 
+Seattle, WA  98199",530771001199,47.6571,-122.3905
+62,1579,Leschi Elementary School,public,K-5,376,4,5,Seattle,WA,229,Seattle Public Schools,5307710,"135 32 Av, 
+Seattle, WA  98122",530771001201,47.6022,-122.2916
+63,5930,Louisa Boren STEM K-8,public,K-8,326,6,,Seattle,WA,229,Seattle Public Schools,5307710,"5950 Delridge Way SW, 
+Seattle, WA  98106",530771003426,47.54868,-122.3622
+64,1580,Lowell Elementary School,public,PK-5,210,4,4,Seattle,WA,229,Seattle Public Schools,5307710,"1058 East Mercer St, 
+Seattle, WA  98102",530771001205,47.6248,-122.3184
+65,1581,Loyal Heights Elementary School,public,K-5,442,10,5,Seattle,WA,229,Seattle Public Schools,5307710,"2511 Nw 80 St, 
+Seattle, WA  98117",530771001206,47.6865,-122.3893
+66,1582,Madison Middle School,public,6-8,759,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"3429 45th Ave Sw, 
+Seattle, WA  98116",530771001207,47.5729,-122.3903
+67,1588,Madrona K-8,public,PK-8,275,4,4,Seattle,WA,229,Seattle Public Schools,5307710,"1121 33rd Ave, 
+Seattle, WA  98122",530771001216,47.6123,-122.2909
+68,1583,Maple Elementary School,public,K-5,449,8,5,Seattle,WA,229,Seattle Public Schools,5307710,"4925 Corson Av South, 
+Seattle, WA  98108",530771001209,47.558,-122.3189
+69,5658,Mc Donald Elementary School,public,K-5,187,10,5,Seattle,WA,229,Seattle Public Schools,5307710,"144 NE 54th Street, 
+Seattle, WA  98105",530771003332,47.668297,-122.32661
+70,1586,McGilvra Elementary School,public,K-5,239,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"1617 38 Avenue East, 
+Seattle, WA  98112",530771001214,47.633987,-122.28482
+71,1585,Mcclure Middle School,public,6-8,515,9,3,Seattle,WA,229,Seattle Public Schools,5307710,"1915 1 Av West, 
+Seattle, WA  98119",530771001212,47.6368,-122.3586
+72,1541,Mercer Middle School,public,6-8,956,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"1600 South Columbian Wy, 
+Seattle, WA  98108",530771001136,47.5642,-122.3121
+73,1642,Middle College High School,public,9-12,148,,,Seattle,WA,229,Seattle Public Schools,5307710,"1330 North 90 St, 
+Seattle, WA  98125",530771002349,47.6951,-122.3405
+74,1590,Montlake Elementary School,public,K-5,232,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"2409 22 Av East, 
+Seattle, WA  98112",530771001219,47.6406,-122.3043
+75,727,Mount View Elementary School,public,PK-6,677,2,3,Seattle,WA,108,Highline School District,5303540,"10811 12th Ave Sw, 
+Seattle, WA  98146",530354000539,47.5064,-122.3508
+76,1592,Nathan Hale High School,public,9-12,1132,,4,Seattle,WA,229,Seattle Public Schools,5307710,"10750 30 Av Ne, 
+Seattle, WA  98125",530771001222,47.7077,-122.2947
+77,3709,New Start,public,9-12,126,,5,Seattle,WA,108,Highline School District,5303540,"614 Sw 120th St, 
+Seattle, WA  98146",530354002967,47.4959,-122.3426
+78,1593,North Beach Elementary School,public,K-5,306,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"9018 24 Av Nw, 
+Seattle, WA  98117",530771001223,47.6948,-122.3871
+79,1594,Northgate Elementary School,public,PK-5,216,3,4,Seattle,WA,229,Seattle Public Schools,5307710,"11725 1 Av Ne, 
+Seattle, WA  98125",530771001225,47.7148,-122.3293
+80,1595,Nova High School,public,9-12,328,,4,Seattle,WA,229,Seattle Public Schools,5307710,"300 20 Ave East, 
+Seattle, WA  98122",530771001226,47.6045,-122.306
+81,1596,Olympic Hills Elementary School,public,PK-5,267,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"13224 37th ave NE, 
+Seattle, WA  98125",530771001228,47.72583,-122.28748
+82,1597,Olympic View Elementary School,public,K-5,464,9,5,Seattle,WA,229,Seattle Public Schools,5307710,"504 Ne 95 St, 
+Seattle, WA  98115",530771001229,47.6982,-122.3211
+83,3150,Orca (Columbia),public,K-8,483,5,4,Seattle,WA,229,Seattle Public Schools,5307710,"5215 46 Ave South, 
+Seattle, WA  98118",530771002231,47.5546,-122.2758
+84,3226,Pathfinder K-8,public,K-8,490,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"1901 SW Genesee, 
+Seattle, WA  98106",530771001102,47.562656,-122.35794
+85,5659,Queen Anne Elementary School,public,K-5,336,9,3,Seattle,WA,229,Seattle Public Schools,5307710,"411 Boston Street, 
+Seattle, WA  98109",530771003318,47.63794,-122.34872
+86,1601,Rainier Beach High School,public,9-12,471,,3,Seattle,WA,229,Seattle Public Schools,5307710,"8815 Seward Park Av South, 
+Seattle, WA  98118",530771001236,47.5245,-122.2663
+87,1602,Rainier View,public,"K-1, 3-5",177,7,4,Seattle,WA,229,Seattle Public Schools,5307710,"11650 Beacon Ave S, 
+Seattle, WA  98178",530771003361,47.499214,-122.26334
+88,3311,Residential Consortium,public,PK-12,35,,,Seattle,WA,229,Seattle Public Schools,5307710,"2142 10 Av West, 
+Seattle, WA  98119",530771002873,47.6388,-122.37
+89,1603,Roosevelt High School,public,9-12,1729,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"1410 Ne 66 St, 
+Seattle, WA  98115",530771001239,47.6773,-122.3128
+90,1604,Roxhill Elementary School,public,PK-5,369,3,4,Seattle,WA,229,Seattle Public Schools,5307710,"9430 30 Av Sw, 
+Seattle, WA  98126",530771001240,47.518,-122.3709
+91,7263,SCCC High School Completion,public,9-12,,,,Seattle,WA,360,Community Colleges Of Spokane,5300322,"1701 Broadway, 
+Seattle, WA  98122",530032303388,47.6169,-122.3214
+92,7261,SSCC High School Completion,public,9-12,,,,Seattle,WA,360,Community Colleges Of Spokane,5300322,"6000 16th Ave Sw, 
+Seattle, WA  98106",530032103424,47.5472,-122.3519
+93,1606,Sacajawea Elementary School,public,K-5,249,6,4,Seattle,WA,229,Seattle Public Schools,5307710,"9501 20 Av Ne, 
+Seattle, WA  98115",530771001242,47.6985,-122.3075
+94,3075,Salmon Bay School,public,K-8,674,9,4,Seattle,WA,229,Seattle Public Schools,5307710,"1810 Nw 65 St, 
+Seattle, WA  98117",530771002716,47.6766,-122.3806
+95,5660,Sand Point Elementary School,public,K-5,200,7,5,Seattle,WA,229,Seattle Public Schools,5307710,"6208 60 Ave NE, 
+Seattle, WA  98115",530771003316,47.673923,-122.26315
+96,1607,Sanislo Elementary School,public,K-5,271,2,5,Seattle,WA,229,Seattle Public Schools,5307710,"1812 Sw Myrtle St, 
+Seattle, WA  98106",530771001244,47.5399,-122.3588
+97,740,Sea-Tac Occupational Skills Center,public,10-12,,,5,Seattle,WA,108,Highline School District,5303540,"18010 8th Ave South, 
+Seattle, WA  98148",530354002103,47.4411,-122.3232
+98,3175,Secondary Bilingual Orientation Center,public,6-12,212,1,,Seattle,WA,229,Seattle Public Schools,5307710,"301 21st Ave East, 
+Seattle, WA  98109",530771001311,47.6216,-122.3053
+99,5929,Secondary Learning Center,public,6-12,327,,,Seattle,WA,217,Renton School District,5307230,"7800 South 132nd St, 
+Seattle, WA  98178",530723003400,47.4855,-122.236
+100,1745,Showalter Middle School,public,6-8,664,3,3,Seattle,WA,243,Tukwila School District,5308130,"4628 South 144th St, 
+Seattle, WA  98168",530813001342,47.4749,-122.2748
+101,1600,South Lake High School,public,9-12,130,,3,Seattle,WA,229,Seattle Public Schools,5307710,"8601 Rainier Ave South, 
+Seattle, WA  98118",530771001234,47.52613,-122.27005
+102,734,Southern Heights Elementary School,public,PK-6,328,3,4,Seattle,WA,108,Highline School District,5303540,"11249 14th Ave South, 
+Seattle, WA  98168",530354000551,47.5019,-122.3159
+103,5762,Southwest Youth and Family Services,public,9-12,5,,,Seattle,WA,108,Highline School District,5303540,"4555 Delridge Way Sw, 
+Seattle, WA  98106",530354003384,47.5619,-122.3634
+104,3738,Special Education Service School,public,PK-12,89,,,Seattle,WA,229,Seattle Public Schools,5307710,"2445 3rd Av, 
+Seattle, WA  98124",530771003046,47.6155,-122.3466
+105,1610,Stevens Elementary School,public,K-5,402,7,4,Seattle,WA,229,Seattle Public Schools,5307710,"1242 18 Av East, 
+Seattle, WA  98112",530771001251,47.6319,-122.3081
+106,5467,Technology Engineering & Communications,public,9-12,286,6,5,Seattle,WA,108,Highline School District,5303540,"830 Sw 116th St, 
+Seattle, WA  98146",530354003180,47.5001,-122.3454
+107,2939,The Center School,public,9-12,282,,4,Seattle,WA,229,Seattle Public Schools,5307710,"305 Harrison St, 
+Seattle, WA  98109",530771002842,47.6217,-122.3483
+108,3289,The New School At South Shore,public,PK-8,621,3,4,Seattle,WA,229,Seattle Public Schools,5307710,"4800 South Henderson St, 
+Seattle, WA  98118",530771002933,47.5233,-122.2727
+109,7295,The Seattle Public Schools Skills Center,public,9-12,,,,Seattle,WA,229,Seattle Public Schools,5307710,"2445 3rd Ave South, 
+Seattle, WA  98124",530771003414,47.5805,-122.3303
+110,1746,Thorndyke Elementary School,public,PK-5,407,3,4,Seattle,WA,243,Tukwila School District,5308130,"4415 South 150th St, 
+Seattle, WA  98188",530813001343,47.4682,-122.2767
+111,1640,Thurgood Marshall Elementary School,public,PK-5,494,10,5,Seattle,WA,229,Seattle Public Schools,5307710,"2401 South Irving St, 
+Seattle, WA  98144",530771002347,47.591,-122.2993
+112,3156,Tops K-8,public,PK-8,502,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"2500 Franklin Av East, 
+Seattle, WA  98102",530771001307,47.6425,-122.3242
+113,7260,UW Early Entrance Program,public,11-12,,,,Seattle,WA,353,University Of Washington (17904),5300320,"3935 15th Ave, 
+Seattle, WA  98195",530032003397,47.5684,-122.3135
+114,1612,Van Asselt Elementary School,public,K-5,509,5,3,Seattle,WA,229,Seattle Public Schools,5307710,"8311 Beacon Av South, 
+Seattle, WA  98108",530771001255,47.538,-122.2962
+115,1613,View Ridge Elementary School,public,PK-5,600,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"7047 50 Av Ne, 
+Seattle, WA  98115",530771001256,47.6806,-122.2761
+116,1614,Viewlands Elementary School,public,K-5,176,4,4,Seattle,WA,229,Seattle Public Schools,5307710,"10525 3rd Ave NW, 
+Seattle, WA  98177",530771003356,47.706398,-122.360794
+117,1615,Washington Middle School,public,6-8,1150,8,4,Seattle,WA,229,Seattle Public Schools,5307710,"2101 South Jackson St, 
+Seattle, WA  98144",530771001259,47.5984,-122.3039
+118,1616,Wedgwood Elementary School,public,K-5,475,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"2720 Ne 85 St, 
+Seattle, WA  98115",530771001261,47.6906,-122.2971
+119,1569,West Seattle Elementary School,public,PK-5,428,5,5,Seattle,WA,229,Seattle Public Schools,5307710,"6760 34 Av Sw, 
+Seattle, WA  98126",530771001182,47.5417,-122.374
+120,1617,West Seattle High School,public,9-12,978,6,4,Seattle,WA,229,Seattle Public Schools,5307710,"3000 California Av Sw, 
+Seattle, WA  98116",530771001262,47.5769,-122.3845
+121,1618,West Woodland Elementary School,public,K-5,517,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"5601 4 Av Nw, 
+Seattle, WA  98107",530771001263,47.6702,-122.3627
+122,738,White Center Heights Elementary,public,PK-6,598,3,3,Seattle,WA,108,Highline School District,5303540,"11427 3rd Ave South, 
+Seattle, WA  98168",530354000557,47.5,-122.3304
+123,1619,Whitman Middle School,public,K-8,953,8,3,Seattle,WA,229,Seattle Public Schools,5307710,"9201 15 Av Nw, 
+Seattle, WA  98117",530771001264,47.6971,-122.3778
+124,1620,Whittier Elementary School,public,K-5,470,10,4,Seattle,WA,229,Seattle Public Schools,5307710,"1320 Nw 75 St, 
+Seattle, WA  98117",530771001265,47.6837,-122.3734
+125,1622,Wing Luke Elementary School,public,K-5,351,7,5,Seattle,WA,229,Seattle Public Schools,5307710,"3701 South Kenyon St, 
+Seattle, WA  98118",530771001267,47.5306,-122.2851
+126,3753,Woodside,public,PK-12,,,3,Seattle,WA,108,Highline School District,5303540,"18367 8th Ave South, 
+Seattle, WA  98148",530354002968,47.4354,-122.3251
+0,1688,Albert Einstein Middle School,public,7-8,750,9,3,Shoreline,WA,236,Shoreline School District,5307920,"19343 3rd Ave N.W., 
+Shoreline, WA  98177",530792001297,47.769234,-122.36241
+1,3527,Aldercrest Annex Home Exchange,public,K-10,115,7,,Shoreline,WA,236,Shoreline School District,5307920,"816 Ne 190th, 
+Shoreline, WA  98155",530792002646,47.7672,-122.3205
+2,1689,Briarcrest Elementary School,public,K-6,76,9,5,Shoreline,WA,236,Shoreline School District,5307920,"2715 N.E. 158th St, 
+Shoreline, WA  98155",530792001299,47.741917,-122.297745
+3,3196,Cascade K-8 Community School,public,K-8,160,8,4,Shoreline,WA,236,Shoreline School District,5307920,"17077 Meridian Ave North, 
+Shoreline, WA  98133",530792003116,47.755,-122.3362
+4,1691,Echo Lake Elementary School,public,K-6,500,8,4,Shoreline,WA,236,Shoreline School District,5307920,"19345 Wallingford Ave North, 
+Shoreline, WA  98133",530792001302,47.76964,-122.33933
+5,3153,Fircrest Residential Habilitation,public,K-12,15,,,Shoreline,WA,236,Shoreline School District,5307920,"15230 15th N.E., 
+Shoreline, WA  98155",530792002912,47.7387,-122.3129
+6,3244,Handicapped Contractual Services,public,PK-12,62,,,Shoreline,WA,236,Shoreline School District,5307920,"18560 1st Ave N.E., 
+Shoreline, WA  98155",530792002447,47.7648,-122.3283
+7,1692,Highland Terrace Elementary School,public,K-6,460,9,5,Shoreline,WA,236,Shoreline School District,5307920,"100 North 160th St, 
+Shoreline, WA  98133",530792001304,47.745914,-122.35962
+8,1693,Kellogg Middle School,public,7-8,617,8,4,Shoreline,WA,236,Shoreline School District,5307920,"16045 25th Ave N.E., 
+Shoreline, WA  98155",530792001308,47.746227,-122.30311
+9,1695,Melvin G Syre Elementary School,public,K-6,500,10,4,Shoreline,WA,236,Shoreline School District,5307920,"19545 12th Ave N.W., 
+Shoreline, WA  98177",530792001310,47.771957,-122.372734
+10,1687,Meridian Park Elementary School,public,K-6,506,10,4,Shoreline,WA,236,Shoreline School District,5307920,"17077 Meridian Ave North, 
+Shoreline, WA  98133",530792000404,47.755,-122.3362
+11,1697,Parkwood Elementary School,public,K-6,450,9,4,Shoreline,WA,236,Shoreline School District,5307920,"1815 North 155th St, 
+Shoreline, WA  98133",530792001313,47.740196,-122.336395
+12,1698,Ridgecrest Elementary School,public,K-6,79,8,4,Shoreline,WA,236,Shoreline School District,5307920,"16516 10th Ave N.E., 
+Shoreline, WA  98155",530792001314,47.74942,-122.31699
+13,1699,Shorecrest High School,public,9-12,1250,,3,Shoreline,WA,236,Shoreline School District,5307920,"15343 25th Ave N.E., 
+Shoreline, WA  98155",530792001315,47.74063,-122.3021
+14,5509,Shoreline-Monroe High School,public,9-12,383,,,Shoreline,WA,151,Monroe School District,5305130,"16101 Greenwood Ave North, 
+Shoreline, WA  98133",530513003259,47.7475,-122.3585
+15,1700,Shorewood High School,public,9-12,1518,9,3,Shoreline,WA,236,Shoreline School District,5307920,"17300 Fremont Ave North, 
+Shoreline, WA  98133",530792001317,47.75406,-122.3501
+0,1707,Skykomish Elementary School,public,PK-8,28,,3,Skykomish,WA,238,Skykomish School District,5307980,"105 6th St North, 
+Skykomish, WA  98288",530798001320,47.7094,-121.3623
+1,1708,Skykomish High School,public,9-12,14,,3,Skykomish,WA,238,Skykomish School District,5307980,"105 6th St North, 
+Skykomish, WA  98288",530798001321,47.7094,-121.3623
+0,3671,Cascade View Elementary School,public,K-5,710,9,4,Snoqualmie,WA,240,Snoqualmie Valley School District,5308040,"34816 Se Ridge St, 
+Snoqualmie, WA  98065",530804002980,47.5322,-121.8755
+1,1729,Mount Si High School,public,9-12,1706,,3,Snoqualmie,WA,240,Snoqualmie Valley School District,5308040,"8651 Meadowbrook Way Se, 
+Snoqualmie, WA  98065",530804001330,47.5225,-121.8167
+2,5665,Snoqualmie Access,public,PK-12,55,,,Snoqualmie,WA,240,Snoqualmie Valley School District,5308040,"8001 Silva Ave Se, 
+Snoqualmie, WA  98065",530804003309,47.5286,-121.8285
+3,1731,Snoqualmie Elementary School,public,PK-5,647,8,4,Snoqualmie,WA,240,Snoqualmie Valley School District,5308040,"755 Park St, 
+Snoqualmie, WA  98065",530804001332,47.5233,-121.81
+4,1732,Snoqualmie Middle School,public,6-8,,,5,Snoqualmie,WA,240,Snoqualmie Valley School District,5308040,"9200 Railroad Ave Se, 
+Snoqualmie, WA  98065",530804001333,47.5182,-121.8143
+5,5666,Snoqualmie Valley Virtual Academy,public,9-12,,,,Snoqualmie,WA,240,Snoqualmie Valley School District,5308040,"8001 Silva Ave Se, 
+Snoqualmie, WA  98065",530804003326,47.5286,-121.8285
+0,3664,Aviation High School,public,9-12,430,,4,Tukwila,WA,108,Highline School District,5303540,"9229 East Marginal Way South, 
+Tukwila, WA  98108",530354002974,47.5212,-122.2999
+1,1749,Cascade View Elementary School,public,PK-5,475,3,4,Tukwila,WA,243,Tukwila School District,5308130,"13601 32nd Ave South, 
+Tukwila, WA  98168",530813002032,47.4814,-122.2931
+2,1744,Foster Senior High School,public,9-12,881,2,4,Tukwila,WA,243,Tukwila School District,5308130,"4242 South 144th St, 
+Tukwila, WA  98168",530813001341,47.4747,-122.2801
+3,1747,Tukwila Elementary School,public,PK-5,530,4,4,Tukwila,WA,243,Tukwila School District,5308130,"5939 South 149th St, 
+Tukwila, WA  98168",530813001344,47.4689,-122.2591
+0,2078,Chautauqua Elementary School,public,PK-5,546,9,5,Vashon,WA,279,Vashon Island School District,5309300,"9309 Sw Cemetery Rd, 
+Vashon, WA  98070",530930001394,47.4275,-122.4527
+1,3101,Family Link,public,K-12,61,,,Vashon,WA,279,Vashon Island School District,5309300,"20120 Vashon Hwy Sw, 
+Vashon, WA  98070",530930002720,47.4232,-122.4581
+2,2079,Mcmurray Middle School,public,6-8,386,,5,Vashon,WA,279,Vashon Island School District,5309300,"9329 Sw Cemetery Rd, 
+Vashon, WA  98070",530930001589,47.4282,-122.4545
+3,3192,Student Link,public,9-12,23,,5,Vashon,WA,279,Vashon Island School District,5309300,"20120 Vashon Hwy Sw, 
+Vashon, WA  98070",530930003112,47.4213,-122.4605
+4,2080,Vashon Island High School,public,8-12,546,,3,Vashon,WA,279,Vashon Island School District,5309300,"9600 Sw 204th St, 
+Vashon, WA  98070",530930001591,47.422,-122.4569
